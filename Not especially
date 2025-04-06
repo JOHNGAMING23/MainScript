@@ -1,0 +1,2 @@
+original Script
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Source-Open-AquaMatrix-25173"))()
